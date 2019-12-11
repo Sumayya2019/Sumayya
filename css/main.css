@@ -715,24 +715,24 @@ section:not(:first-of-type) {
       line-height: 25px;
       text-align: center;
       cursor: pointer; }
-  .navbar .logo {
+  .navbar .logo2 {
     z-index: 1;
     height: 80px; }
 
-    .navbar .logo .bg_logo {
-        /*background-image: url(../images/bg/logo.png);
+    .navbar .logo2 .bg_logo {
+        background-image: url(../images/bg/logo.png);
         border-radius: 100%;
-        background-color: red;*/
+
       /* Here The Logo */
       background-size: 50px;
       background-repeat: no-repeat;
       background-position: center;
       height: 50px;
       display: inline-block;
-      width:50px;
+      width:100%;
       position: absolute;
-      top: 25px;
-      left: 50px; }
+      top: 50px;
+      left: 0px; }
   .navbar .social-media {
     position: absolute;
     bottom: 20px;

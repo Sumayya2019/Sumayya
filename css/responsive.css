@@ -41,12 +41,12 @@
     .navbar .social-media {
         bottom: 10px;
     }
-    .navbar .logo .bg_logo {
+    .navbar .logo2 .bg_logo {
         top: 12px;
     }
-    
+
     /* Header */
-    
+
     .home2 .skewed {
         right: 0;
         top: 0;
@@ -76,9 +76,9 @@
         height: 100%;
         background-color: rgba(0, 0, 0, 0.1)!important;
     }
-    
+
     /* About */
-    
+
     .title {
         padding: 70px 30px;
     }
@@ -119,26 +119,26 @@
         padding: 9px 18px;
         font-size: 13px;
     }
-    
+
     /* Services */
-    
+
     .serv .serv-vid {
         height: 260px;
         margin: 15px auto 35px;
     }
-    
+
     /* Portfolio */
-    
+
     .work .shuffle ul li {
         margin-bottom: 10px;
     }
-    
+
     /* Testimonials */
-    
+
     .testim .tabbable .list-tabs ul li:first-child {
         right: 89px;
     }
-    
+
     .testim .tabbable .list-tabs ul li:nth-child(5) {
         left: 77px;
     }
@@ -174,9 +174,9 @@
     .testim .client .logos .last img {
         margin-bottom: 0;
     }
-    
+
     /* Contact */
-    
+
     .contact .infos {
         width: 90%;
         padding: 20px 23px;
@@ -190,34 +190,34 @@
     .contact .form .message .send-btn {
         margin-left: 0;
     }
-    
+
     .option-box {
         top: 100px;
     }
-    
+
     /* for Demo */
-    
+
     .header-demo .title-demo h1 {
         padding-top: 40%;
     }
-    
+
 }
 
 /* Small Screen */
 @media(min-width: 767px) and (max-width: 991px) {
-    
-    
+
+
 }
 
 /* Medium Screen */
 @media(min-width: 992px) and (max-width: 1199px) {
-    
-    
+
+
 
 }
 
 /* Larg Screen */
 @media(min-width: 1200px) {
-    
+
 }
-/* ------------------------- End Media Query ---------------------------------------- */	
+/* ------------------------- End Media Query ---------------------------------------- */
